@@ -11,10 +11,6 @@ public class App
         System.out.println( "Hello World!" );
     }
 
-    public void otherTasks() {
-        System.out.println( "Print other" );
-    }
-
     public void testJenkins() {
         System.out.println( "Test Jenkins" );
     }
