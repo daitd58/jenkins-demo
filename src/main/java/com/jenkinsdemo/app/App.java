@@ -14,4 +14,8 @@ public class App
     public void otherTasks() {
         System.out.println( "Print other" );
     }
+
+    public void testJenkins() {
+        System.out.println( "Test Jenkins" );
+    }
 }
